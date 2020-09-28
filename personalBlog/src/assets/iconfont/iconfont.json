@@ -1,0 +1,16 @@
+{
+  "id": "2100664",
+  "name": "blog",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1273367",
+      "name": "fanhui",
+      "font_class": "fanhui",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    }
+  ]
+}
